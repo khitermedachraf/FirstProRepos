@@ -1,2 +1,2 @@
-alert("hellow word") ;
+alerte("hellow word");
 
